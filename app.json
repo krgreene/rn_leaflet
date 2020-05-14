@@ -1,0 +1,17 @@
+{
+  "name": "rnleaflet",
+  "displayName": "rnleaflet",
+  "expo": {
+    "name": "rnleaflet",
+    "slug": "rnleaflet",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
